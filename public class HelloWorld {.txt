@@ -8,3 +8,5 @@ public class Main {
         System.out.println("How was the day?");
     }
 }
+Adding Video features to the application
+Adding Audio features to the application
