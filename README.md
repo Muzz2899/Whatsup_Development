@@ -1,2 +1,2 @@
 # Whatsup_Development
-This Repository will have a;; the related code to Whatsup application.
+This Repository is to develop Whatsup chat application.
